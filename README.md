@@ -1,16 +1,12 @@
 # custom_scroll_view_usage
 
-A new Flutter project.
+A new Flutter project demonstrating the usage of `CustomScrollView` with various slivers.
 
-## Getting Started
+## Video Demonstration
 
-This project is a starting point for a Flutter application.
+Here's a screen recording of the app in action:
 
-A few resources to get you started if this is your first Flutter project:
+https://github.com/Emadabdelhamied/Custom-Scroll-View/blob/main/assets/Screen%20Recording.mp4
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Screen Recording](https://github.com/Emadabdelhamied/Custom-Scroll-View/blob/main/assets/Screen%20Recording.mp4)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
