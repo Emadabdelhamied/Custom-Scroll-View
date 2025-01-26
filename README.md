@@ -1,4 +1,4 @@
-# custom_scroll_view_usage
+# CustomScrollView Usage
 
 A new Flutter project demonstrating the usage of `CustomScrollView` with various slivers.
 
